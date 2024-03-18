@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card-title h2{
+  background-color: rgb(17, 233, 233);
+  color: rgb(43, 3, 70);
+  border: 2px solid red;
+}
+.card-body ,table table-bordered {
+  background-color: rgb(165, 93, 229);
+  border: 2px solid rgb(7, 0, 0)
+
+}

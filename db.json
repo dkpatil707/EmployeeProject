@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "name": "Sudarshan Patil",
+      "email": "darshanpatil0703@gmail.com",
+      "phone": "9359219049",
+      "location": "pune",
+      "active": true,
+      "id": "1"
+    },
+    {
+      "id": "6078",
+      "name": "vaibhav Mahajan",
+      "email": "vaibhav@gmail.com",
+      "phone": "885958745",
+      "location": "pune",
+      "active": true
+    },
+    {
+      "id": "6bb9",
+      "name": "Sagar Patil",
+      "email": "saggay1234@gmail.com",
+      "phone": "554778955",
+      "location": "pune",
+      "active": true
+    },
+    {
+      "id": "d7b7",
+      "name": "Milu patil",
+      "email": "milupatil@gmail.com",
+      "phone": "545654565",
+      "location": "Shivaji-nagar",
+      "active": true
+    }
+  ]
+}
